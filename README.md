@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SivaramanAK
-- 👀 I’m interested in ASP.NET devoloper
-- 🌱 I’m currently learning .Net Framework
+- 👀 I’m interested in .NET devoloper
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on .Net
 - 📫 How to reach me sivargp2k1@gmail.com
 
